@@ -6,3 +6,6 @@ xcuserdata/
 
 # macOS
 .DS_Store
+
+# Local secrets (never commit)
+Config/Secrets.local.xcconfig

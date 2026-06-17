@@ -60,7 +60,7 @@
       queueDebuggingEnableBacktraceRecording = "Yes">
       <RemoteRunnable
          runnableDebuggingMode = "0"
-         BundleIdentifier = "com.argsment.Everywhere"
+         BundleIdentifier = "com.oixcloud.Everywhere"
          RemotePath = "/var/containers/Bundle/Application/1B0A0006-14F2-4F6C-858A-845BFEC12903/Everywhere.app">
       </RemoteRunnable>
       <MacroExpansion>

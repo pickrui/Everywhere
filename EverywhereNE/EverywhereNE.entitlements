@@ -8,7 +8,7 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.argsment.Everywhere</string>
+		<string>group.com.oixcloud.Everywhere</string>
 	</array>
 </dict>
 </plist>

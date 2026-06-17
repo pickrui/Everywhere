@@ -12,7 +12,7 @@ final class EVCore {
 
     enum Identifier {
         /// Bundle identifier prefix for the Everywhere app family.
-        static let bundle = "com.argsment.Everywhere"
+        static let bundle = "com.oixcloud.Everywhere"
         /// App Group suite shared between the app and Network Extension.
         static let appGroupSuite = "group.\(bundle)"
         /// Bundle identifier of the packet tunnel Network Extension.

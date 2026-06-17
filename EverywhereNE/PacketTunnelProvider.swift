@@ -16,7 +16,7 @@ final class PacketTunnelProvider: NEPacketTunnelProvider {
     private var coreError: String?
     
     private var pathMonitor: NWPathMonitor?
-    private let pathMonitorQueue = DispatchQueue(label: "com.argsment.Everywhere.pathMonitor", qos: .utility)
+    private let pathMonitorQueue = DispatchQueue(label: "com.oixcloud.Everywhere.pathMonitor", qos: .utility)
     private var pendingPathUpdate: DispatchWorkItem?
     private var latestPath: Network.NWPath?
     private static let pathDebounceInterval: DispatchTimeInterval = .milliseconds(1000)
